@@ -1,1 +1,22 @@
 /* your code */
+table{
+    border: rgb(212, 208, 208) solid 2px;
+    /* border-collapse: collapse; */
+    width: 100%;
+    border-radius: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  }
+
+  thead{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-weight: 900;
+    background-color: rgb(21, 21, 197);
+    color: white;
+    border: none;
+  }
+
+  tbody{
+    border: none;
+  }
